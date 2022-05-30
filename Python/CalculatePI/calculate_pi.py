@@ -1,5 +1,7 @@
 import math
 
+# Script by astroxii @ 2022
+# Have fun!
 
 def get_distance(v1: tuple, v2: tuple) -> float:
     a = (abs(v1[0])+abs(v2[0]))
